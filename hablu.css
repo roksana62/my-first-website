@@ -1,0 +1,10 @@
+h1{
+ color: yellow;
+ background-color: darkcyan;
+}
+p{
+border-top: 5px solid red;
+border-bottom: 5px dotted rgb(15, 13, 10);
+border-left: 5px dashed blue;
+border-right: 5px groove palevioletred;
+}
